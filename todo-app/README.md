@@ -78,28 +78,28 @@ Open **http://localhost:3000** in your browser.
 ##  Application Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Todo Details
-![Todo Details](screenshots/todo-details.png)
+![Todo Details](Screenshots/todo-details.png)
 
 ### View Todo
-![View Todo](screenshots/view-todo.png)
+![View Todo](Screenshots/view-todo.png)
 
 ### Edit Todo
-![Edit Todo](screenshots/edit-todo.png)
+![Edit Todo](Screenshots/edit-todo.png)
 
 ### Delete Todo
-![Delete Todo](screenshots/delete-todo.png)
+![Delete Todo](Screenshots/delete-todo.png)
 
 ### Completed Tasks
-![Completed](screenshots/completed.png)
+![Completed](Screenshots/completed.png)
 
 ### Pending Tasks
-![Pending](screenshots/pending.png)
+![Pending](Screenshots/pending.png)
 
 ### High Priority Tasks
-![High Priority](screenshots/highpriority.png)
+![High Priority](Screenshots/highpriority.png)
 
 ## Author
 **Pavithra**  
