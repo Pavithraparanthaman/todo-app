@@ -68,9 +68,10 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-##  Documentation
+## Documentation
 
-- **[FEATURES.md](./FEATURES.md)** — Full feature and API documentation
+- [FEATURES.md](FEATURES.md) — Complete feature documentation.
+- [API.md](API.md) — REST API documentation.
 
 ---
 
