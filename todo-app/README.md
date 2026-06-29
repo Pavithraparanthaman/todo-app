@@ -68,12 +68,52 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
+
 ## Documentation
 
 - [FEATURES.md](FEATURES.md) — Complete feature documentation.
 - [API.md](API.md) — REST API documentation.
 
 ---
+## Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Todo Details
+![Todo Details](screenshots/todo-details.png)
+
+---
+
+### View Todo
+![View Todo](screenshots/view-todo.png)
+
+---
+
+### Edit Todo
+![Edit Todo](screenshots/edit-todo.png)
+
+---
+
+### Delete Todo
+![Delete Todo](screenshots/delete-todo.png)
+
+---
+
+### Completed Tasks
+![Completed](screenshots/completed.png)
+
+---
+
+### Pending Tasks
+![Pending](screenshots/pending.png)
+
+---
+
+### High Priority Tasks
+![High Priority](screenshots/highpriority.png)
 
 ## Author
 **Pavithra**  

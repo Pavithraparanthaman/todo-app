@@ -1,5 +1,17 @@
 [
   {
+    "id": "737baaee-ccd7-447a-bb7f-e4a1d3c7a479",
+    "title": "Zipttrip ToDo App",
+    "description": "Full stack Todo application",
+    "category": "Personal",
+    "priority": "High",
+    "status": "Pending",
+    "dueDate": "2026-06-29",
+    "tags": [],
+    "createdAt": "2026-06-29T06:05:59.508Z",
+    "updatedAt": "2026-06-29T06:05:59.509Z"
+  },
+  {
     "id": "ef7cd508-0241-4aea-a223-eb5574fb0005",
     "title": "Complete React Assignment",
     "description": "Implement the todo application UI with all required features",
